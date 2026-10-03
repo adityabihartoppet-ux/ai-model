@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "Android Studio me Toast message kaise show karte hain?",
+    "input": "",
+    "output": "Android me Toast dikhane ke liye Kotlin me aap yeh code likh sakte hain: Toast.makeText(context, \"Hello!\", Toast.LENGTH_SHORT).show()"
+  },
+  {
+    "instruction": "Diye gaye text ka sentiment (mood) analyze karo.",
+    "input": "Aaj mere app ka pehla version bina kisi bug ke compile ho gaya, mai bohot excited hu!",
+    "output": "Sentiment: Positive. User bohot khush aur excited feel kar raha hai kyunki uska code chal gaya."
+  },
+  {
+    "instruction": "AI Fine-tuning aur Pre-training me kya farq hai?",
+    "input": "",
+    "output": "Pre-training me AI ko scratch se poori duniya ki knowledge di jati hai (isme mahino lagte hain). Fine-tuning me ek pehle se trained AI ko kisi specific task (jaise coding ya chat) ke liye thoda aur train kiya jata hai."
+  },
+  {
+    "instruction": "Batao ki yeh operating system mobile ke liye hai ya PC ke liye.",
+    "input": "Windows 11",
+    "output": "Windows 11 ek PC (Personal Computer) operating system hai."
+  }
+]
